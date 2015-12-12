@@ -1,0 +1,10 @@
+#main-table thead th{
+    background: #3c3c3c;
+    color: #fff;
+}
+.container{
+    margin-top: 50px;
+}
+.space{
+    margin-right: 10px;
+}
